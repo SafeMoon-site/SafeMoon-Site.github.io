@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /safemoon/
+Sitemap: https://safemoon.github.io/sitemap.xml
